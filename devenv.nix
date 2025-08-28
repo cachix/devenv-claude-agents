@@ -15,11 +15,12 @@
         3. Begin review immediately
         
         Review checklist:
-        - Code is simple and readable
+        - Code is simple and readable (KISS)
         - Functions and variables are well-named
-        - No duplicated code
+        - Apply Single Responsibility Principle 
+        - No duplicated code (DRY)
         - Proper error handling
-        - No exposed secrets or API keys
+        - Security: No exposed secrets or API keys
         - Input validation implemented
         - Good test coverage
         - Performance considerations addressed
